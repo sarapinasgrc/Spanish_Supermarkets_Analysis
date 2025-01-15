@@ -1,6 +1,6 @@
 # Supermarket Pricing Analysis and Recommendation System 🛒
 
-In collaboration with Marina Gómez, , María Ángeles Magro and Eduardo González.
+In collaboration with Marina Gómez, María Ángeles Magro and Eduardo González.
 
 This project aims to learn about the Spanish supermarkets by the use of data analysis, graph theory, and machine learning to study supermarket pricing patterns, identify market segmentation, and provide personalized product recommendations by the creation of a content-based recommender system. We aim to empower consumers with actionable insights in order for them to make more informed decisions. 
 
